@@ -1,8 +1,8 @@
-Key Board sounds that are customizable
+## Key Board sounds that are customizable
 
 ![image](./bin/assets/screenshot.png)
 
-Features
+# Features
 * You can add your own sounds
 * Cross Platform
 * Open-source
@@ -10,9 +10,10 @@ Features
 * Mute button
 * Runs in backround
 * Saves and loads your settings
-   ![image](./bin/assets/saveload.png)
+  
+    ![image](./bin/assets/saveload.png)
 
-  Made with the following libraries:
+# Made with the following libraries:
   * glfw
   * glew
   * [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear)
@@ -20,4 +21,4 @@ Features
   * [uiohook](https://github.com/kwhat/libuiohook)
   * [nlohmann json](https://github.com/nlohmann/json)
  
-    Enjoy!
+    # Enjoy!
