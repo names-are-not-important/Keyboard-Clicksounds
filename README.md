@@ -5,7 +5,7 @@ Key Board sounds that are customizable
 Features
 * You can add your own sounds
 * Cross Platform
-* Open-schorce
+* Open-source
 * Can play on either key up or key down
 * Mute button
 * Runs in backround
