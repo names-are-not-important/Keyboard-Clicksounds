@@ -1,0 +1,1 @@
+g++ .\sounds.cpp -o ..\bin\sadound.exe -IC:includepathhere -L./ -static-libgcc -static-libstdc++ -Wall -Wextra -std=c++17 -Waggressive-loop-optimizations -s -lglew32 -lglfw3 -lopengl32 -lgdi32 -luiohook -lwinmm -lole32 ../my.res  -mwindows
