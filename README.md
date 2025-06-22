@@ -9,7 +9,8 @@ Features
 * Can play on either key up or key down
 * Mute button
 * Runs in backround
-* Saves and loads your settings ![image](./bin/assets/saveload.png)
+* Saves and loads your settings
+   ![image](./bin/assets/saveload.png)
 
   Made with the following libraries:
   * glfw
@@ -18,3 +19,5 @@ Features
   * [Miniaudio](https://github.com/mackron/miniaudio)
   * [uiohook](https://github.com/kwhat/libuiohook)
   * [nlohmann json](https://github.com/nlohmann/json)
+ 
+    Enjoy!
